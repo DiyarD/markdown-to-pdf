@@ -1,0 +1,4 @@
+markdown
+pdfkit
+tkwebview2
+tkinterdnd2
